@@ -1,0 +1,16 @@
+h1{
+color: antiquewhite;
+background-color: aqua;
+text-align: center;
+}
+h2{
+    color: burlywood;
+    background-color:whitesmoke;
+text-align: center;
+}
+p{
+    font-family: 'Caveat', cursive;
+    font-size: 100px;
+}ul{
+    text-align: center;
+}
